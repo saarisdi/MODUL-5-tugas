@@ -1,7 +1,5 @@
-class kelasPengguna {
+public class kelasPengguna {
 protected String n; //username
 protected String p; //password
-public void penyimpanan(String n, String p) {
-// isi code
-}
+public void SaveData (String n, String p) {}
 }
